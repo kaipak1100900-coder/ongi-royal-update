@@ -1,0 +1,271 @@
+{
+ "mod": {
+  "file": "ongiclient-0.1.0.jar",
+  "sha1": "8476e3d44a266593663a97489d1e1be0a1d83df6",
+  "size": 1657586,
+  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/8476e3d44a266593663a97489d1e1be0a1d83df6/ongiclient-0.1.0.jar"
+ },
+ "modpack": {
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "0.1.0",
+  "name": "ONGI ROYAL",
+  "summary": "ONGI ROYAL battle royale client (TaCZ guns)",
+  "files": [
+   {
+    "path": "mods/tacz-neoforge-1.21.1-1.2.0-hotfix.jar",
+    "hashes": {
+     "sha1": "760cfbbd52783213567d4d7b167caafd1654854b",
+     "sha512": "cd14c1a2711164353c400e620459ca82f3f890e641789e79fa3710eea727973b36a09ec7330652fd52cf92664c7bd867e3df49fadb390da052df0c136b658349"
+    },
+    "env": {
+     "client": "required",
+     "server": "required"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/SzzJttH8/versions/tJiZL0He/tacz-neoforge-1.21.1-1.2.0-hotfix.jar"
+    ],
+    "fileSize": 68558038
+   },
+   {
+    "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+    "hashes": {
+     "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+     "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
+    ],
+    "fileSize": 1292934
+   },
+   {
+    "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "hashes": {
+     "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+     "sha512": "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+    ],
+    "fileSize": 2540723
+   },
+   {
+    "path": "mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
+    "hashes": {
+     "sha1": "75671869d5991e7fbeed77f0549501d1368d6f44",
+     "sha512": "c1818837b0e43f67fa4cd2cfffc2d57c17e579b405b215dd627e3ea68d0c000b56a79614cd41f20451ea7a687e9e9de66afe871f0b9bcec680699445ea0d9fa3"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/NNAgCjsB/versions/DDaDZQ47/entityculling-neoforge-1.12.1-mc1.21.1.jar"
+    ],
+    "fileSize": 1523607
+   },
+   {
+    "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+    "hashes": {
+     "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+     "sha512": "c115cad7b060373fc597aae08c685e2d56f173b88b792a4a2c229e222f8da293b99865e9553cf716483d3c3d6a18f31c51c5dd55be22d4625ed2c962d7b94fd0"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+    ],
+    "fileSize": 368896
+   },
+   {
+    "path": "mods/ferritecore-7.0.3-neoforge.jar",
+    "hashes": {
+     "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+     "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
+    },
+    "env": {
+     "client": "required",
+     "server": "required"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+    ],
+    "fileSize": 121559
+   },
+   {
+    "path": "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
+    "hashes": {
+     "sha1": "52c008540c7dc2cc451f7e939a885d7462c9ae72",
+     "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555"
+    },
+    "env": {
+     "client": "required",
+     "server": "required"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar"
+    ],
+    "fileSize": 614138
+   },
+   {
+    "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+    "hashes": {
+     "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+     "sha512": "d14b32d3fd143a06514d6ad388eee11e9d657c84e1a937aaf8d033b1137fb43ef8b05cff1011a994cc42f3106823c51234f8bc18d72bb05bc317a20ea83c50ed"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+    ],
+    "fileSize": 28289212
+   },
+   {
+    "path": "mods/e4mc-neoforge-6.2.3.jar",
+    "hashes": {
+     "sha1": "7127478b19531091257b3f58cd734a638200e481",
+     "sha512": "6d029c61c71503dbf03710a0a944b462fc0351a862db773d4ffe39ffe8d8a205d12a4f031361d82867d365a2335abbdc91859a2777108ca4c9c14fe243b92197"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/qANg5Jrr/versions/HXD8kS5O/e4mc-neoforge-6.2.3.jar"
+    ],
+    "fileSize": 666469
+   },
+   {
+    "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
+    "hashes": {
+     "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb",
+     "sha512": "958747dc1914536e357512dd2f0b926f2ee936dace3f9a43a0e8eb51ae6f35b9c7359529ee48d2ac50d190b02b617d94d22eced202ecd3056494c71a4958b14b"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/qyVF9oeo/versions/85fA7L1W/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
+    ],
+    "fileSize": 204230
+   },
+   {
+    "path": "mods/particlerain-4.0.4+1.21.1-neoforge.jar",
+    "hashes": {
+     "sha1": "0a8c52eea34e3bf9edcc7b2b03d1f8a100cb71be",
+     "sha512": "0e3ba8f5f83904ff8979d8d69f8e5be0eef340b6d1e326762ec9ab933c088ab63ef3b88117dc1023000ade11e9ad23d84390e3840b08519bb20638c131b08151"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/nrikgvxm/versions/DW2m22Qi/particlerain-4.0.4%2B1.21.1-neoforge.jar"
+    ],
+    "fileSize": 626707
+   },
+   {
+    "path": "mods/Falling Leaves-1.0.jar",
+    "hashes": {
+     "sha1": "44900fc3f297669ddc432037b4e401aeb4409d23",
+     "sha512": "30962ca6d61019eccf4b57ac438dd220efe455727c8e57c0a062a02ee6c4072df97699e917b5d0452d7ff14577c03e9fe987b4146e1226899e1cbc7ee469b0f2"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/ALTwwcC5/versions/VbgSXj57/Falling%20Leaves-1.0.jar"
+    ],
+    "fileSize": 15088
+   },
+   {
+    "path": "mods/firstperson-neoforge-2.7.3-mc1.21.1.jar",
+    "hashes": {
+     "sha1": "6e0be1de6a5aab6cda8496984376a0114cf5a840",
+     "sha512": "979a3c50048042e1bcb623d89c04c7fe7048e173d7f77305edc7adc5b5580040439a7c5e001a55eab2d7cc6e2e0d13e75d8be165da13dea61ee126a794101763"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/H5XMjpHi/versions/eaj8cYpD/firstperson-neoforge-2.7.3-mc1.21.1.jar"
+    ],
+    "fileSize": 1537453
+   },
+   {
+    "path": "mods/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
+    "hashes": {
+     "sha1": "137a878ed276a3dfab2715df1864d14f60bd3237",
+     "sha512": "0d0a2080c14a513962e9183aae028649b0d40514881481735141d7e137a3e9d5751f6c5468ace369bde09f81c15c06f76e3f8f5785f8c783fce2c26a4f3c4fbf"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/MPCX6s5C/versions/f9RkhlA0/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar"
+    ],
+    "fileSize": 1868196
+   },
+   {
+    "path": "shaderpacks/ComplementaryReimagined_r5.10.zip",
+    "hashes": {
+     "sha1": "ce5f303920c12f858c6b4c27a521fe7a1ba70aea",
+     "sha512": "edced01fb330af215ac73b8d9d31011565089f971f87145b87f413f40ee2128b48970aed26f8e5e879899647ec847b3eefca64bfc013aabbcf25275a207f663d"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/HVnmMxH1/versions/RKfUB9VC/ComplementaryReimagined_r5.10.zip"
+    ],
+    "fileSize": 567387
+   },
+   {
+    "path": "mods/Vehicle-Unofficial-1.21.1.20260709.jar",
+    "hashes": {
+     "sha1": "a60973e1ae0b512a0719d36548aa6713215ac513",
+     "sha512": "bf080588f731d6aec84da9b97af50557ae72ab97e3bc055379c4a935b66e59fe4e6236a1c860caf4898cc22b629cff04d902454d8c962870f4eadbaac808153c"
+    },
+    "env": {
+     "client": "required",
+     "server": "required"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/cIL71c6X/versions/t8STkNzh/Vehicle-Unofficial-1.21.1.20260709.jar"
+    ],
+    "fileSize": 4608217
+   }
+  ],
+  "dependencies": {
+   "minecraft": "1.21.1",
+   "neoforge": "21.1.266"
+  }
+ },
+ "world": null,
+ "extra": [
+  {
+   "file": "framework-neoforge-1.21.1-0.13.11.jar",
+   "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+   "size": 387334,
+   "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/e46eb138fbb13a12f37154fb4ec407d64b326475/framework-neoforge-1.21.1-0.13.11.jar"
+  }
+ ],
+ "published": "2026-11-22T10:11:32.148Z"
+}
