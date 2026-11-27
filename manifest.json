@@ -1,9 +1,9 @@
 {
  "mod": {
   "file": "ongiclient-0.1.0.jar",
-  "sha1": "6d03ce7f2d23d22c7085737b80f072980c91e55b",
-  "size": 1678169,
-  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/6d03ce7f2d23d22c7085737b80f072980c91e55b/ongiclient-0.1.0.jar"
+  "sha1": "fc279a3abbe907b8092b5257796e590176dc2449",
+  "size": 1688180,
+  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/fc279a3abbe907b8092b5257796e590176dc2449/ongiclient-0.1.0.jar"
  },
  "modpack": {
   "formatVersion": 1,
@@ -272,5 +272,5 @@
    "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/e46eb138fbb13a12f37154fb4ec407d64b326475/framework-neoforge-1.21.1-0.13.11.jar"
   }
  ],
- "published": "2026-11-25T07:44:26.861Z"
+ "published": "2026-11-27T07:19:01.984Z"
 }
