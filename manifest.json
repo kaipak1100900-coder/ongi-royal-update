@@ -1,9 +1,9 @@
 {
  "mod": {
   "file": "ongiclient-0.1.0.jar",
-  "sha1": "edd76ee8e747db9f90425861767bdd7d14c1fa5d",
-  "size": 1747936,
-  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/edd76ee8e747db9f90425861767bdd7d14c1fa5d/ongiclient-0.1.0.jar"
+  "sha1": "661480b968e8dec0cff1d96e7694271f73ccdb91",
+  "size": 1749134,
+  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/661480b968e8dec0cff1d96e7694271f73ccdb91/ongiclient-0.1.0.jar"
  },
  "modpack": {
   "formatVersion": 1,
@@ -238,6 +238,21 @@
     "fileSize": 567387
    },
    {
+    "path": "resourcepacks/Optimum Realism R4.2.2 64x 4.2.1.zip",
+    "hashes": {
+     "sha1": "dadd5db94e6a048656198bfcf5678d13586cd1ec",
+     "sha512": "f4ba7babc8a5b7d47e39b51bb40d63268a25f1c197597c40d3452bb69cb10b8e48b3a0bd421c437dd566f3c28183b2d10c205bdf35dcc718343a572b6bddf441"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/jbhXFk8s/versions/xhB2qi02/Optimum%20Realism%20R4.2.2%2064x%204.2.1.zip"
+    ],
+    "fileSize": 84982153
+   },
+   {
     "path": "mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
     "hashes": {
      "sha1": "9762244f9c116c85a6af3469da686650ed455bb1",
@@ -302,5 +317,5 @@
    "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/e46eb138fbb13a12f37154fb4ec407d64b326475/framework-neoforge-1.21.1-0.13.11.jar"
   }
  ],
- "published": "2026-11-28T10:25:59.790Z"
+ "published": "2026-11-28T10:28:28.808Z"
 }
