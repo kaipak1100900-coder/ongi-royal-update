@@ -1,9 +1,9 @@
 {
  "mod": {
   "file": "ongiclient-0.1.0.jar",
-  "sha1": "661480b968e8dec0cff1d96e7694271f73ccdb91",
-  "size": 1749134,
-  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/661480b968e8dec0cff1d96e7694271f73ccdb91/ongiclient-0.1.0.jar"
+  "sha1": "a250b19299f07c40f03eeac63e1b20fb23a5daf0",
+  "size": 1755226,
+  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/a250b19299f07c40f03eeac63e1b20fb23a5daf0/ongiclient-0.1.0.jar"
  },
  "modpack": {
   "formatVersion": 1,
@@ -253,6 +253,21 @@
     "fileSize": 84982153
    },
    {
+    "path": "resourcepacks/Patrix_1.21_32x_basic.zip",
+    "hashes": {
+     "sha1": "9e04dc6ad908fc9c58ead17740d760e882aab73e",
+     "sha512": "89c948034c2555d6367aefeaad23e7fbcaad0e75915ea3de000d93bfa962b0eecaa8bd71287d70bc28aec27e0cca40bc9430600771160a6583091f928953335a"
+    },
+    "env": {
+     "client": "required",
+     "server": "unsupported"
+    },
+    "downloads": [
+     "https://cdn.modrinth.com/data/olO1TaXd/versions/iBo0eCWB/Patrix_1.21_32x_basic.zip"
+    ],
+    "fileSize": 63380206
+   },
+   {
     "path": "mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
     "hashes": {
      "sha1": "9762244f9c116c85a6af3469da686650ed455bb1",
@@ -305,9 +320,9 @@
  },
  "world": {
   "file": "ongi-host-world.zip",
-  "sha1": "a6dce6f999fd56666c61dfb22109851a35c74a81",
-  "size": 26651685,
-  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/a6dce6f999fd56666c61dfb22109851a35c74a81/ongi-host-world.zip"
+  "sha1": "bb685d40adb62f6e2801ce7c686c3058ba724e1f",
+  "size": 27065839,
+  "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/bb685d40adb62f6e2801ce7c686c3058ba724e1f/ongi-host-world.zip"
  },
  "extra": [
   {
@@ -317,5 +332,5 @@
    "url": "https://raw.githubusercontent.com/kaipak1100900-coder/ongi-royal-update/main/files/e46eb138fbb13a12f37154fb4ec407d64b326475/framework-neoforge-1.21.1-0.13.11.jar"
   }
  ],
- "published": "2026-11-28T10:28:28.808Z"
+ "published": "2026-11-28T10:50:19.087Z"
 }
